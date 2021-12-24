@@ -22,7 +22,7 @@
                 </li>
             </ul>
             <span class="nav-item">
-                <a class="btn-outline-sm" href="log-in.html">Log in</a>
+                <a class="btn-outline-sm" href="/log-in">Log in</a>
             </span>
         </div> <!-- end of navbar-collapse -->
     </div> <!-- end of container -->
