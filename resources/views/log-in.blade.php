@@ -34,7 +34,7 @@
                                     <input type="checkbox" class="form-check-input" id="exampleCheck1">
                                     <label class="form-check-label" for="exampleCheck1">I agree with the site's stated <a href="privacy.html">Privacy Policy</a> and <a href="terms.html">Terms & Conditions</a></label>
                                 </div>
-                                <button type="submit" class="form-control-submit-button">LoOg in</button>
+                                <button type="submit" class="form-control-submit-button">Logggg in</button>
                             </form>
                             <!-- end of log in form -->
 
