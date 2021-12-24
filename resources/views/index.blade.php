@@ -9,7 +9,6 @@
                         <div class="text-container">
                             <h1 class="h1-large">Welcome to SIPHPM D3 Sistem Informasi</span></h1>
                             <p class="p-large">Layanan Online Sidang PKL/Magang</p>
-                            <a class="btn-solid-lg" href="sign-up.html">Sign up for free</a>
                         </div> <!-- end of text-container -->
                     </div> <!-- end of col -->
                     <div class="col-lg-6">
