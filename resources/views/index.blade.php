@@ -7,8 +7,8 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="text-container">
-                            <h1 class="h1-large">The #1 CRM app for <span class="replace-me">small business, young startups, bootstrappers</span></h1>
-                            <p class="p-large">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dignissim, neque ut vanic barem ultrices sollicitudin</p>
+                            <h1 class="h1-large">Welcome to SIPHPM D3 Sistem Informasi</span></h1>
+                            <p class="p-large">Layanan Online Sidang PKL/Magang</p>
                             <a class="btn-solid-lg" href="sign-up.html">Sign up for free</a>
                         </div> <!-- end of text-container -->
                     </div> <!-- end of col -->
@@ -23,12 +23,12 @@
         <!-- end of header -->
 
 
-        <!-- Features -->
-        <div id="features" class="cards-1">
+        <!-- Detail -->
+        <div id="detail" class="cards-1">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        <h2 class="h2-heading">Ioniq CRM application is packed with <span>awesome features</span></h2>
+                        <h2 class="h2-heading">Detail</h2>
                     </div> <!-- end of col -->
                 </div> <!-- end of row -->
                 <div class="row">
@@ -75,7 +75,7 @@
             </div> <!-- end of container -->
         </div> <!-- end of cards-1 -->
         <!-- end of services -->
-
+{{-- 
 
         <!-- Details 1 -->
         <div id="details" class="basic-1 bg-gray">
@@ -434,5 +434,5 @@
                 </div> <!-- end of row -->
             </div> <!-- end of container -->
         </div> <!-- end of accordion-1 -->
-        <!-- end of questions -->
+        <!-- end of questions --> --}}
 @endsection

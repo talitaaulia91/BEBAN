@@ -19,14 +19,12 @@
             <div class="container">
                 <div class="row">
                     <div class="col-xl-6 offset-xl-3">
-                        <div class="text-box mt-5 mb-5">
-                            <p class="mb-4">You don't have a password? Then please <a class="blue" href="sign-up.html">Sign Up</a></p>
-
+                        <div class="text-box">
                             <!-- Log In Form -->
                             <form>
                                 <div class="mb-4 form-floating">
                                     <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
-                                    <label for="floatingInput">NIM/NIP/NIK</label>
+                                    <label for="floatingInput">Username (NIM/NIP/NIK)</label>
                                 </div>
                                 <div class="mb-4 form-floating">
                                     <input type="password" class="form-control" id="floatingPassword" placeholder="Password">
