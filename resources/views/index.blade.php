@@ -8,7 +8,8 @@
                     <div class="col-lg-6">
                         <div class="text-container">
                             <h1 class="h1-large">Welcome to SIPHPM D3 Sistem Informasi</span></h1>
-                            <p class="p-large">Layanan Online Sidang PKL/Magang</p>
+                            <p class="p-large">Sistem Infomasi Pengajuan Honor PKL/Magang 
+                                Program Studi D3 Sistem Informasi Fakultas Vokasi Universitas Airlangga</p>
                         </div> <!-- end of text-container -->
                     </div> <!-- end of col -->
                     <div class="col-lg-6">
@@ -27,7 +28,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        <h2 class="h2-heading">Detail</h2>
+                        <h2 class="h2-heading">Detail PKL dan Magang</h2>
                     </div> <!-- end of col -->
                 </div> <!-- end of row -->
                 <div class="row">
@@ -36,16 +37,18 @@
                         <!-- Card -->
                         <div class="card">
                             <div class="card-icon">
-                                <span class="fas fa-headphones-alt"></span>
                             </div>
                             <div class="card-body">
-                                <h4 class="card-title">Customer Lists</h4>
-                                <p>Et blandit nisl libero at arcu. Donec ac lectus sed tellus mollis viverra. Nullam pharetra ante at nunc elementum</p>
+                                <h4 class="card-title">PKL</h4>
+                                <p>PKL (Pelatihan kerja lapangan) merupakan salah-satu kegiatan murid dan mahasiswa untuk mendapatkan pengalaman kerja sebelum memasuki dunia 
+                                    kerja yang sesungguhnya, yang tercermin dalam pendidikan nasional berbasis Pancasila yang bertujuan 
+                                    meningkatkan kecerdasan, kreativitas, dan ketrampilan agar dapat menumbuhkan manusia yang dapat membangun dirinya sendiri serta bertanggungjawab atas 
+                                    pembangunan bangsa dan negara dalam peningkatan ekonomi dan kehidupan yang makmur.</p>
                             </div>
                         </div>
                         <!-- end of card -->
 
-                        <!-- Card -->
+                        {{-- <!-- Card -->
                         <div class="card">
                             <div class="card-icon green">
                                 <span class="far fa-clipboard"></span>
@@ -55,16 +58,15 @@
                                 <p>Vulputate nibh feugiat. Morbi pellent diam nec libero lacinia, sed ultrices velit scelerisque. Nunc placerat justo sem</p>
                             </div>
                         </div>
-                        <!-- end of card -->
+                        <!-- end of card --> --}}
 
                         <!-- Card -->
                         <div class="card">
                             <div class="card-icon blue">
-                                <span class="far fa-comments"></span>
                             </div>
                             <div class="card-body">
-                                <h4 class="card-title">Reporting Tool</h4>
-                                <p>Ety suscipit metus sollicitudin euqu isq imperdiet nibh nec magna tincidunt, nec pala vehicula neque sodales verum</p>
+                                <h4 class="card-title">magang</h4>
+                                <p>Magang adalah suatu proses pelatihan individu atas suatu pekerjaan tertentu, tetapi bukan menjadi bagian seutuhnya dari perusahaan. Tujuan utamanya adalah supaya si individu siap menghadapi dan terjun ke pekerjaan yang sesungguhnya setelah program berakhir.</p>
                             </div>
                         </div>
                         <!-- end of card -->

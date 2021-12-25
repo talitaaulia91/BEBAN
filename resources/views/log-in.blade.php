@@ -21,7 +21,7 @@
                     <div class="col-xl-6 offset-xl-3">
                         <div class="text-box">
                             <!-- Log In Form -->
-                            <form>
+                            <form action="/dasboard" method="post">
                                 <div class="mb-4 form-floating">
                                     <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
                                     <label for="floatingInput">Username (NIM/NIP/NIK)</label>
@@ -34,7 +34,7 @@
                                     <input type="checkbox" class="form-check-input" id="exampleCheck1">
                                     <label class="form-check-label" for="exampleCheck1">I agree with the site's stated <a href="privacy.html">Privacy Policy</a> and <a href="terms.html">Terms & Conditions</a></label>
                                 </div>
-                                <button type="submit" class="form-control-submit-button">Logggg in</button>
+                                <button type="submit" class="form-control-submit-button">Log in</button>
                             </form>
                             <!-- end of log in form -->
 
