@@ -65,7 +65,7 @@
                             <div class="card-icon blue">
                             </div>
                             <div class="card-body">
-                                <h4 class="card-title">magang</h4>
+                                <h4 class="card-title">Magang</h4>
                                 <p>Magang adalah suatu proses pelatihan individu atas suatu pekerjaan tertentu, tetapi bukan menjadi bagian seutuhnya dari perusahaan. Tujuan utamanya adalah supaya si individu siap menghadapi dan terjun ke pekerjaan yang sesungguhnya setelah program berakhir.</p>
                             </div>
                         </div>

@@ -15,5 +15,16 @@ use App\Http\Controllers\login;
 |
 */
 
+// Landing Page
 Route::get('/', [home::class, 'home']);
 Route::get('/login', [login::class, 'login']);
+
+// Authentication
+Route::get('/login', [login::class, "login"])->name('login')->middleware('guest');
+Route::post('/login/authenticate', [login::class, "authenticate"]);
+Route::get('/logout', [login::class, 'logout']);
+
+// Dashboard
+Route::middleware('auth:mahasiswa')->group(function () {
+    Route::get('/dashboard',[DashboardController::class,"index"])->name('dashboard');
+});
